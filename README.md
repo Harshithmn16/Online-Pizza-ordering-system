@@ -1,6 +1,6 @@
 # Online-Pizza-ordering-system
 # This a website created using HTML/CSS as design tools and php for backend database connections(JDBC).
-# It has an amazing desidn and superb working model explore the project for more details
+# It has an amazing design and superb working model explore the project for more details
 
 ![Screenshot 2023-08-06 015512](https://github.com/Harshithmn16/Online-Pizza-ordering-system/assets/124524990/71613b30-b576-4938-9ea4-bf703660fdf3)
 ![Screenshot 2023-08-06 015546](https://github.com/Harshithmn16/Online-Pizza-ordering-system/assets/124524990/fbe2b800-dca2-4ac5-9b25-c0222222e1d7)
